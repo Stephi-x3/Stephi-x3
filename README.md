@@ -10,7 +10,7 @@
   <li>💻 How to reach me:
     <ul>
       <li> www.linkedin.com/in/beckst </li>
-      <li>beck.stephi@t-online.de</li>
+      <li> <a href="mailto: beck.stephi@t-online.de "> beck.stephi@t-online.de </a> </li>
     </ul>
 </ul>
 
