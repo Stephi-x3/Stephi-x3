@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Stephi-x3
 - 👀 I’m interested in AI, web development, game development (unity), UX/UI
-- 🌱 My current aim: Improving my skills in web development
-- 📫 How to reach me ...
-  www.linkedin.com/in/beckst
+- 🌱 My current aim: Expanding my skills in web development. I'm learning with the help of https://www.theodinproject.com/
+- 🌱 I am developing together with @beckaa a game called 'Animal Street Crossing' using Unity.
+- 📫 How to reach me: <br>
+  www.linkedin.com/in/beckst <br>
   beck.stephi@t-online.de
   
 
