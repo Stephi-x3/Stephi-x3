@@ -1,11 +1,11 @@
-<h1>👋 Hi, I’m @Stephi-x3</h1>
+<h1>👋 Hi, I’m Stephi</h1>
 
 <ul>
   <li>❤️ I’m interested in AI, web development, game development (unity), UX/UI</li>
   <li>🌱 My current aims:</li>
     <ul>
       <li>Expanding my skills in web development.<br> I'm learning using https://www.theodinproject.com/</li>
-      <li>I am developing together with @beckaa a game called 'Animal Street Crossing' using Unity.</li>
+      <li>I am developing together with <a href="https://github.com/beckaa/">@beckaa</a> a game called 'Animal Street Crossing' using Unity.</li>
     </ul> 
   <li>💻 How to reach me:
     <ul>
